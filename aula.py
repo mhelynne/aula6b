@@ -1,4 +1,5 @@
 print ("Hello World")
-a = 10
-b = 20
+a = 100
+b = 50
 print ("A soma dos números é", a+b)
+print ("A diferença dos números é", a-b)
